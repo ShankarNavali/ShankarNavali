@@ -25,16 +25,24 @@ Software & Web Developer | Computer Science Student
 
 ## 🛠 Tech Stack
 
-**Languages:** C, C++, JavaScript, HTML, CSS, SQL  
-
-**Frameworks & Libraries:** Node.js, Express.js, React, EJS  
-
-**Databases:** MongoDB, MySQL  
-
-**Tools & Platforms:** Git, GitHub, Docker, AWS, VS Code, Postman  
-
+### 🧩 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,nodejs,express,react,mongodb,mysql,docker,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,sql" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,ejs" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman" />
 </p>
 
 ---
