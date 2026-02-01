@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./git-hub-banner.gif" width="100%" alt="Animated Developer Banner" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Shankar Navali</h1>
 
@@ -11,7 +9,9 @@ Software & Web Developer | Computer Science Student
 <p align="center">
 📍 Bangalore, India • 📧 shankarnavali38@gmail.com
 </p>
-
+<p align="center">
+  <img src="./git-hub-banner.gif" width="100%" alt="Animated Developer Banner" />
+</p>
 ---
 
 ## 👨‍💻 About Me
