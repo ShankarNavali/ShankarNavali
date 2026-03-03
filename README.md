@@ -79,27 +79,20 @@ CGPA: **8.2**
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p> -->
----
 
-## 🔗 Connect
 
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/shankarnm5kq" target="_blank">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/0F9D58" height="42" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<h2><strong>Connect</strong></h2>
 
-  <a href="https://www.linkedin.com/in/shankar-navali-492655309/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="42" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
+<p align="left">
   <a href="https://leetcode.com/u/shankar_navali/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shankar-navali-492655309/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
+  </a>
+  &nbsp;
   <a href="https://www.instagram.com/shankar._sk__18/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="42" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="35"/>
   </a>
 </p>
