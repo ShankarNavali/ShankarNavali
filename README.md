@@ -58,3 +58,24 @@ CGPA: **8.2**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShankarNavali&show_icons=true&theme=radical" />
 </p>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shankar-navali-492655309/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://leetcode.com/u/shankar_navali/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48" height="48"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/shankarnm5kq" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="48" height="48"/>
+  </a>
+
+  <a href="https://www.instagram.com/shankar._sk__18/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
